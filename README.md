@@ -1,2 +1,2 @@
 # Todo
-This is a small todo project for pratice 
+This is a small todolist project for pratice 
